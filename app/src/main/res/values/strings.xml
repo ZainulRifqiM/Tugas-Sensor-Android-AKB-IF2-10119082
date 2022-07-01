@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Tugas Sensor Android AKB IF2 10119082</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Profile Mahasiswa</string>
+    <string name="menu_gallery">Tempat Favorit</string>
+    <string name="menu_slideshow">Lokasi Pengguna</string>
+    <string name="menu_tentang">Tentang Aplikasi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="nama_mhs">Zainul Rifqi Muwaffaq</string>
+    <string name="nim_mhs">10119082</string>
+    <string name="kelas_mhs">AKB IF-2</string>
+    <string name="univ">Universitas Komputer Indonesia</string>
+
+    <string name="judul_1">LOKAKU</string>
+    <string name="judul_2">Menu Get Lokasi</string>
+    <string name="judul_3">Tentang Aplikasi</string>
+
+    <string name="desk_1">Aplikasi ini bertujuan untuk merealisasikan tugas AKB, aplikasi ini terdiri dari profil mahasiswa, get lokasi, dan tentang aplikasi</string>
+    <string name="desk_2">Pada menu ini terdapat button pada pojok kanan yang berfungsi untuk mendeteksi lokasi keberadaan perangkat smartphone android user</string>
+    <string name="desk_3">Pada menu ini terdapat sebuah menu yang manampilkan tantang aplikasi dengan menggunakan view pager</string>
+    <string name="get_location">Get Location</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="lokaku">LOKAKU</string>
+    <string name="temukan_kokasi_ku">Temukan Kokasi Ku</string>
+</resources>
